@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there I'm JK. 👋
 
-🔭 I’m currently working as a Freelance Front-end Developer  
+🔭 I’m currently finding a job as a Freelance UX/UI Front-end Developer  
 👯 I’m looking to collaborate on exciting web development projects  
 🤝 I’m looking for help with building scalable web applications  
 🌱 I’m currently learning C#, .NET, React, Angular, Vue.js  
