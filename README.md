@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on exciting web development projects  
 🤝 I’m looking for help with building scalable web applications  
-🌱 I’m currently learning C#, .NET, React, Angular, Vue.js and Nestjs  
+🌱 I’m currently learning C#, .NET, Nestjs, Expressjs, Nodejs React, Angular, and Vue.js
 💬 Ask me about Front-end development, UI/UX design, Typescript and Javascript frameworks  
 ⚡ Fun fact: I enjoy solving coding challenges in my free time
 
