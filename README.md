@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there I'm Warongkon 👋
 
-🔭 I'm currently working as a Junior Full-Stack Developer.
+🔭 I'm currently working as a Junior Software Developer.
 
 👯 I’m looking to collaborate on exciting web development projects  
 🤝 I’m looking for help with building scalable web applications  
